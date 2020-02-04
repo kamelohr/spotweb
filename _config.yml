@@ -2,6 +2,9 @@
 title: SPOT — Design System Foundation
 timezone: Europe/Berlin
 collections:
+  docs:
+    title: Docs
+    output: true
   posts:
     title: Posts
     output: true
